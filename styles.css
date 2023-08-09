@@ -1,0 +1,104 @@
+a
+{
+    display: inline;
+    font-family: fantasy;
+    color: yellow;
+    font-size: 30px;
+}
+
+p
+{
+    position: relative;
+    color: white;
+    font-size: 30px;
+    text-align: center 
+}
+h1
+{
+    background-color: black;
+}
+.accueil
+{
+    margin-right: 50px;
+}
+.page1
+{
+    margin-right: 50px;
+}
+.page2
+{
+    margin-right: 50px;
+}
+#bienvenue
+{
+    margin-top: 150px;
+}
+.left
+{
+    height: 310px;
+    width: 160px;
+}
+.right
+{
+    height: 310px;
+    width: 1490px;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+#text
+{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+#container
+{
+    position: relative;
+}
+h2
+{
+    text-align: center;
+}
+#projets
+{
+    font-size: 50px;
+    text-align: center;
+}
+.img1
+{
+    text-align: center;
+    margin-top: 20px;
+}
+#projets2
+{
+    font-size: 50px;
+}
+#current_date
+{
+    color: white;
+}
+.center
+{
+    margin: 0 auto;
+    width: 40%;
+    display: block;
+}
+#PAY2
+{
+    color: red;
+}
+#INF
+{
+    color: red;
+}
+#RDR2
+{
+    color: red;
+}
+#WT
+{
+    color: red;
+}
+
+
