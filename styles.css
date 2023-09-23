@@ -104,6 +104,10 @@ h6
 {
     color: red;
 }
+iframe
+{
+    margin: 25px;
+}
 body
 {
     background:  position: fixed;
