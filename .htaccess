@@ -1,5 +1,4 @@
-#Protect Directory
-AuthName "Dialog prompt"
+AuthName "Page d'administration protégée.Merci."
 AuthType Basic
-AuthUserFile C:/wamp64/www/Portfolio_github-main/.htpasswd
+AuthUserFile "Zerox-22/Portfolio_github-main/.htpasswd"
 Require valid-user
