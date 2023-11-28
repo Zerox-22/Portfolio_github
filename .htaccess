@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Mot de passe requis"
-AuthUserFile /Portfolio_github/.htpasswd
+AuthUserFile /zerox-22.github.io/Portfolio_github/.htpasswd
 Require valid-user
