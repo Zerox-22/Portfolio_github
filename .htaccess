@@ -1,4 +1,5 @@
+#Protect Directory
+AuthName "Dialog prompt"
 AuthType Basic
-AuthName "Mot de passe requis"
-AuthUserFile /Portfolio_github/.htpasswd
+AuthUserFile C:/Users/Mpk20/Desktop/Mon Site Web/.htpasswd
 Require valid-user
